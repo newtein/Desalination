@@ -6,9 +6,9 @@ Published Web-Page is available <a href="https://newtein.github.io/Desalination/
 
 
 # Research Abstract
-![alt text](https://raw.githubusercontent.com/newtein/Desalination/master/images/desalination.jpg)
-![alt text](https://raw.githubusercontent.com/newtein/Desalination/master/images/wc1.jpg)
-![alt text](https://raw.githubusercontent.com/newtein/Desalination/master/images/wc2.jpg)
+![alt text](https://raw.githubusercontent.com/newtein/Desalination/master/image/desalination.jpg)
+![alt text](https://raw.githubusercontent.com/newtein/Desalination/master/image/wc1.jpg)
+![alt text](https://raw.githubusercontent.com/newtein/Desalination/master/image/wc2.jpg)
 
 
 
