@@ -13,4 +13,4 @@ Published Web-Page is available <a href="https://newtein.github.io/Desalination/
 
 
 # Publication
-Other relevent information will be published after publication in relevent journal. 
+Short-version is published in  IEEE-11th International Conference on Contemporary Computing (in-press) and extended version is submitted for publication in relevent journal. 
